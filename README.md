@@ -6,5 +6,5 @@ I am interested in infrastructure and backend engineering intern opportunities f
 
 - 🌱 I’m currently learning [Go](https://golang.org/)
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: dbhasin@uwaterloo.ca
+- 📫 How to reach me: dbhasin@uwaterloo.ca, [d-bhasin](https://www.linkedin.com/in/d-bhasin/)
 - ⚡ Fun fact: I am an ambidextrous eater :fork_and_knife:
