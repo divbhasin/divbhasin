@@ -4,6 +4,8 @@ I am a 3rd year CS student at the [University of Waterloo](https://uwaterloo.ca/
 
 I am interested in SWE intern opportunities for Summer 2021. Check out my [resume](https://drive.google.com/file/d/1lgNWuIxkws4GpzHUdW0E3CNc8A5zAwzt/view?usp=sharing).
 
+As part of Hacktoberfest 2020, I made some open-source contributions to gitea, a self-hosted Git service. Check them out [here](https://github.com/go-gitea/gitea/pulls?q=is%3Apr+author%3Adivbhasin+is%3Aclosed).
+
 - 🌱 I’m currently learning [Go](https://golang.org/)
 - 👯 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: dbhasin@uwaterloo.ca, [d-bhasin](https://www.linkedin.com/in/d-bhasin/)
